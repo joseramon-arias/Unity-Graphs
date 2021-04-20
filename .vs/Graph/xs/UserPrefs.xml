@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{914D7849-32CB-3A81-E88F-65651D82F89F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Function Library.cs">
+    <Files>
+      <File FileName="Assets/Prefabs/Point/Point Surface.shader" Line="20" Column="53" />
+      <File FileName="Assets/Scripts/Graph.cs" Line="44" Column="39" />
+      <File FileName="Assets/Scripts/Function Library.cs" Line="69" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Graph" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Prefabs" expanded="True">
+                <Node name="Point" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Function Library.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b087e7a-522e-4476-89f3-d5613a3d06f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
