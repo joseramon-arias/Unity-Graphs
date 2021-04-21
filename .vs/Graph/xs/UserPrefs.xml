@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{914D7849-32CB-3A81-E88F-65651D82F89F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Function Library.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts2/Graph 2.cs">
     <Files>
       <File FileName="Assets/Prefabs/Point/Point Surface.shader" Line="20" Column="53" />
       <File FileName="Assets/Scripts/Graph.cs" Line="44" Column="39" />
-      <File FileName="Assets/Scripts/Function Library.cs" Line="69" Column="65" />
+      <File FileName="Assets/Scripts/Function Library.cs" Line="82" Column="73" />
+      <File FileName="Assets/Scripts2/Graph 2.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,8 +14,9 @@
               <Node name="Prefabs" expanded="True">
                 <Node name="Point" expanded="True" />
               </Node>
-              <Node name="Scripts" expanded="True">
-                <Node name="Function Library.cs" selected="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Scripts2" expanded="True">
+                <Node name="Graph 2.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b087e7a-522e-4476-89f3-d5613a3d06f0" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5bf6ea04-41dd-4f58-ad96-6b241364607d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

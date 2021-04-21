@@ -56,9 +56,9 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Function Library.cs" />
     <Compile Include="Assets/Scripts/Rotation.cs" />
     <Compile Include="Assets/Scripts/Graph.cs" />
-    <Compile Include="Assets/Scripts/Function Library.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Prefabs/Point/Point Surface.shader" />
